@@ -5,3 +5,11 @@
 <PETS>zero</PETS>
 <Salary>1000</Salary>
 </CAT>
+<?xml version="1.0"?>
+<CAT>
+<NAME>Nataliya</NAME>
+<NAME>Truneuskaya</NAME>
+<AGE>27</AGE>
+<PETS>zero</PETS>
+<SALARY>1000</SALARY>
+</CAT>
